@@ -13,11 +13,3 @@ Run the script
 ```bash
 python script.py
 ```
-
-```
-
-```
-
-```
-
-```
